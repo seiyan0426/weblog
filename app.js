@@ -18,6 +18,4 @@ app.use(systemlogger());
 // var logger = require("./lib/log/logger.js").application;
 // logger.error("test2", "message2");
 
-// pull reqテスト
-
 app.listen(3000);
